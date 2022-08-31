@@ -1,0 +1,6 @@
+{
+    "name": "Sag Cafe",
+    "contactNumber": "4087774040",
+    "email": "sag@admin.com",
+    "password": "softwareag"
+}

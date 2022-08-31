@@ -1,0 +1,20 @@
+.float-right {
+    float:right;
+}
+
+mat-card {
+    padding: 20px
+}
+
+table {
+    width: 100%;
+}
+
+td.mat-cell, th.mat-header-cell {
+    text-align: left !important;;
+    justify-content:left !important;;
+}
+
+.mat-form-field {
+    padding: 5px;
+}
